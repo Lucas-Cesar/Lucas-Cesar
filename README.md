@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedor fullstack<br>📚 Estou estudando bancos de dados e aplicações(relacionais e não relacionais) <br>🎯 Ciência de dados<br></p>
+<p align="left">✨ Desenvolvedor fullstack<br>📚 Estou estudando bancos de dados e aplicações(relacionais e não relacionais) <br>🎯 Cybersecurity<br></p>
 
 ###
 
