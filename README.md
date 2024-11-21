@@ -2,13 +2,6 @@
 
 ###
 
-<h3 align="left">🧔🏻 Sobre mim</h2>
-
-###
-
-<p align="left">✨ Desenvolvedor fullstack<br>📚 Estou estudando bancos de dados e aplicações(relacionais e não relacionais) <br>🎯 Cybersecurity<br></p>
-
-###
 
 <h2 align="left">🧑🏽‍💻 Tecnologias</h2>
 
