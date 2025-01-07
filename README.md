@@ -1,17 +1,5 @@
 <h1 align="left">Olá 👋 Meu nome é Lucas César!!</h1>
------BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEZ32UlxYJKwYBBAHaRw8BAQdAIF6zgjksIw90o/nz2TQJokdRshUMecK7DFg2
-hChNgfG0BEx1Y2GImQQTFgoAQRYhBF0ztuE2ro9AGvb8ZnJlahMastsqBQJnfZSX
-AhsDBQkFo0dZBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEHJlahMastsq
-yZoA/3d0HgTXcHvLlhevW77ysD88HyJE+CuQA8tJCllBA9TiAQDIqNo/zLkUWcR+
-zOxa4pa5be22wtB2gamXLwDEie68ALg4BGd9lJcSCisGAQQBl1UBBQEBB0AGtgRK
-qcsw0YuKJSWR1swVlnQmJ3B5BLH9SEh7M8OAJwMBCAeIfgQYFgoAJhYhBF0ztuE2
-ro9AGvb8ZnJlahMastsqBQJnfZSXAhsMBQkFo0dZAAoJEHJlahMastsqv1YA/0rU
-vgJ326OrjzqDvvMXKhqANmOR/whMHJWKoFEJbdL4AP9nscW5iXVWyNGFc2lmHLPY
-QNwiCffUZ+2j6hw6EDBjAw==
-=J3+D
------END PGP PUBLIC KEY BLOCK-----
 ###
 <h4>Sou estudante de Engenharia da Computação na Universidade de Pernambuco (2022.1 - 2026.2).
 Estou buscando me adentrar e me desenvolver na área de cibersegurança, participando de laboratórios, fazendo cursos e buscando conteúdos encontrados em diferentes plataformas.</h4>
